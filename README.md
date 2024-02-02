@@ -1,6 +1,6 @@
 ## 340-Project
 ## Team Members
-> Cade FLinchum
+> Cade Flinchum
 
 ## Nickname
 
