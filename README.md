@@ -1,2 +1,7 @@
-# 340-Project
-## This is the README for the 340 project
+## 340-Project
+## Team Members
+> Cade FLinchum
+
+## Nickname
+
+## Desription
