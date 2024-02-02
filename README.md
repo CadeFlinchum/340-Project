@@ -1,9 +1,11 @@
-## SpartanJam - SJ
+## SpartanJam
 ## Team Members
 > Cade Flinchum,
 > Sebastian Del Campo,
 > Nehabahen Chauhan,
 > Kanika Sun 
+
+## Nickname - SJ
 
 ## Description
 > A brief description of what your app will be like and why it's interesting. - Our app would mimic Spotify but would also include a forum that allows users to post and share music with one another.
