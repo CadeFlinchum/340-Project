@@ -6,5 +6,6 @@
 > Kanika Sun 
 
 ## Nickname
+> SpartanJam
 
 ## Description
